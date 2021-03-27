@@ -6,7 +6,7 @@ This repository contains methods used to compute the distance between binary tre
 -if a pair of trees has a common edges and another pair of trees (with one tree from the previous pair)
 -has b common edges, then the first pair is "closer" if a>b and the second pair is "closer" if a<b (vice versa with "further")
 
-I have updated this repo with code starting from Spring 2018, so I have created functions for binary trees under Prof. Cleary for three terms now. In my independent study for Spring 2019, I worked on making spreadsheets that list out the number of common edges between trees of given size n. So far I have made charts for n=4,5,6, and will try to make my code more efficient to go on to n=7 and beyond. Afterwards, I plan to study the charts and relate the results to the numerical distances between trees, which I hope to start this term and continue in future research.
+I have updated this repo with code starting from Spring 2018, so I have created functions for binary trees under Prof. Cleary for three terms now. In my independent study for Spring 2019, I worked on making spreadsheets that list out the number of common edges between trees of given size n. So far I have made charts for n=4,5,6, and will try to make my code more efficient to go on to n=7 and beyond. 
 
 ## Methods
 
