@@ -10,7 +10,7 @@ I have updated this repo with code starting from Spring 2018, so I have created 
 
 ## Methods
 
-My older versions of this README had a description of all of the files' methods, but I have split the description into five parts, one for each file's methods, to save space in the README. For a general guideline on what methods each file contains:
+For a general guideline on what methods each file contains:
 
 ListTreetools.md - covers basic tree methods such as generating all trees of a given size, finding the edges of a tree
 
