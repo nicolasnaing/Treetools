@@ -2,12 +2,15 @@
 1.	public static PTree randomTree (int n, ArrayList labels, boolean tick)
 
 •	takes an int and returns a random tree with data values
-•	here is any arrayList of size with distinct entries, I used the ordered ArrayList from 1 to n,
+
+•	here is any arrayList of size with distinct entries, I used the ordered ArrayList from 1 to n
+
 •	is used to cut off shuffling , this is used in the recursive calls of this method to save operations
 
 2.	public static int frequency (int[] arr, int k)
 
 •	returns the frequency that appears in , used to make bucket lists in the later functions that make the chart outputs
+
 3.	public static ArrayList skeletonCollection (int n)
 
 •	returns the ArrayList of skeletons of size n, a skeleton of a number n is a unlabeled tree with n spots that do not have children (same as a tree shape)
