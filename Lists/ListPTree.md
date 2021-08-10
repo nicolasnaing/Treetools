@@ -1,5 +1,6 @@
 # PTree Methods
 1.	Ptree (int item)
+
 •	constructor method, stores the value item into a node
 2.	String toString ()
 •	returns the Newick format of the given tree, note that for single leaf trees, this method just returns the data value at the single leaf, with no parentheses/edge lengths ("1" as an example)
