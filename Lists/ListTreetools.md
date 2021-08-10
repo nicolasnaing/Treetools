@@ -67,7 +67,7 @@
 
 •	takes a String t, returns the number of commas in t, used in yNewick
 
-•	also not the easiest to understand, underlying idea is that commas separate branches of trees, which implies that if I can track the commas in some way, then I can use recursion to get the Newick format
+•	also not the easiest to understand, underlying idea is that in a tree, commas separate branches of trees. Then I found that if I can track the commas in some way, I can split up the Newick format string in a way that allows me to use recursion for this function
 
 10.	PTree yNewick (String t)
 
