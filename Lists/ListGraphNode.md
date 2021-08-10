@@ -1,7 +1,7 @@
 # GraphNode Methods
 1.	GraphNode (int i)
 
-•	constructor method that stores the value i into the node
+•	constructor method that stores the value i into the node (index of specific tree in the collection of trees for the tree's size)
 
 2.	addNeighbor (int data)
 
