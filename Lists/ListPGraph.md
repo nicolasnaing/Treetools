@@ -11,7 +11,9 @@
 
 •	prints all vertices of the PGraph and their neighbors (described in nodes)
 
-•	example output for 4 leaf trees -> 15 total trees: 0: 1 2 3 12
+•	example output for 4 leaf trees -> 15 total trees: 
+
+0: 1 2 3 12
 
 1: 0 2 6 13
 
@@ -51,7 +53,7 @@
 
 6.	ArrayList sieve (ArrayList standard, ArrayList subject)
 
-•	takes an ArrayList standard and an ArrayList subject, returns subject with entries that are in both standard and subject removed, , used in distanceFromNode
+•	takes an ArrayList standard and an ArrayList subject, returns subject with entries that are in both standard and subject removed, used in distanceFromNode
 
 7.	ArrayList distanceFromNode (int nodeValue, int distance)
 
