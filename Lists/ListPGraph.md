@@ -67,4 +67,4 @@
 	
 3.	Use adjPairs (Treetools) on (2) to get an ArrayList of adjacent PTrees, should have size 36, forms "distance ring 1"
 
-4.	Repeat step 3 for each PTree in the ArrayList from (3), sieve out the repeated trees (sieve method in PGraph only works for integer lists, can rebuild with similar idea + treeinList method from Treetools), "creates distance ring 2", "distance ring 3", and so on
+4.	Repeat step 3 for each PTree in the ArrayList from (3), sieve out the repeated trees (sieve method in PGraph only works for integer lists, can rebuild with similar idea + treeinList method from Treetools), creates "distance ring 2", "distance ring 3", and so on
