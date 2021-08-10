@@ -1,7 +1,7 @@
 # Treetools Methods
 1.	int factorial (int n)
 
-•	returns n!=n*(n-1)*...21, helper function for choose
+•	returns n!=n*(n-1)*...2*1, helper function for choose
 
 2.	int choose (int n, int k)
 
@@ -23,7 +23,7 @@
 
 •	places -1 in each node with children as they contain no data values
 
-•	number of trees of size n is equal to 135*...*(2n-3) (odd factorial idea)
+•	number of trees of size n is equal to 1*3*5*...*(2n-3) (odd factorial idea)
 
 •	below is an example of two of the 15 trees made with n=4 and labels [1,2,3,4]  
 
